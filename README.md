@@ -1,13 +1,11 @@
 # github.com/ryanwclark/docker-nginx-php-fpm
 
-[![GitHub release](https://img.shields.io/github/v/tag/ryanwclark/docker-nginx-php-fpm?style=flat-square)](https://github.com/ryanwclark/docker-nginx-php-fpm/releases/latest)
 [![Build Status](https://img.shields.io/github/workflow/status/ryanwclark/docker-nginx-php-fpm/build?style=flat-square)](https://github.com/ryanwclark/docker-nginx-php-fpm/actions?query=workflow%3Abuild)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/nginx-php-fpm.svg?style=flat-square&logo=docker)](https://hub.docker.com/r/ryanwclark/nginx-php-fpm/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/nginx-php-fpm.svg?style=flat-square&logo=docker)](https://hub.docker.com/r/ryanwclark/nginx-php-fpm/)
 
 
 * * *
-
 
 ## About
 
